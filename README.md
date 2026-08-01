@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the stock-flow that is my first agent coding project.
 
-[![Mercer08572's GitHub stats](https://github-stats-extended.vercel.app/api?username=Mercer08572)](https://github.com/stats-organization/github-stats-extended)
+[![Mercer08572's GitHub stats](https://github-stats-extended.vercel.app/api?username=Mercer08572&custom_title=My%20GitHub%20Stats&show_icons=true&theme=vue)]
